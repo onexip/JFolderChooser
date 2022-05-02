@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JFolderChooser.iml" filepath="$PROJECT_DIR$/JFolderChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JFolderChooser.iml" filepath="$PROJECT_DIR$/.idea/JFolderChooser.iml" />
     </modules>
   </component>
 </project>
